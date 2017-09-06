@@ -5,9 +5,9 @@
 class Ucc < Formula
   desc "The Unified Code Counter (UCC) is a comprehensive software lines of code counter produced by the USC Center for Systems and Software Engineering."
   homepage "http://csse.usc.edu/ucc_new/wordpress/"
-  url "https://bitbucket.org/dknow/ucc/get/22e3d28159b6.zip"
-  version "2015.12.2"
-  sha256 "11f6d527cdf77532a6f0d23c22573a5259c9a01522e5db34a7487b42c8ef8dc8"
+  url "https://bitbucket.org/dknow/ucc/get/dce2b646d7c5.zip"
+  version "2015.12.3"
+  sha256 "d840cfc5d875710c0a134ed43b4ffb270ae9e5ca97d87cfe4ac5339174c08bea"
 
   depends_on "boost" => :build
 
